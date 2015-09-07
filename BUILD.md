@@ -35,7 +35,7 @@ cd OpenMVS
 like in OpenMVS/Eigen, OpenMVS/Ceres, etc
 
 # Get and unpack OpenMVS in OpenMVS/src:
-git clone https://github.com/cdcseacave/openMVS.git src
+git clone https://github.com/OpenMVS/openMVS.git src
 
 # Make build directory:
 mkdir build
@@ -54,7 +54,7 @@ Linux compilation
 [Ubuntu](http://www.ubuntu.com) is used next as the example linux distribution.
 
 ```
-# Getting the OpenMVG sources:
+# Getting the OpenMVS sources:
 git clone https://github.com/cdcseacave/openMVS.git
 
 ##

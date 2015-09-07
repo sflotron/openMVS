@@ -1,7 +1,7 @@
 ## OpenMVS License
 
 *   __OpenMVS__<br />
-    [http://cdcseacave.github.io/openMVS](http://cdcseacave.github.io/openMVS)
+    [http://github.com/OpenMVS/openMVS](http://cdcseacave.github.io/openMVS)
     Copyright (c) OpenMVS authors
     Licensed under the [AGPL](http://opensource.org/licenses/AGPL-3.0) license.
 
